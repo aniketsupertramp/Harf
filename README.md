@@ -43,6 +43,7 @@ Steps to use it. (The FSM class is the state machine class that uses my library 
         fsm.notify(Events.E1);
   
  7.)     To display current state machine structure, 
+  
         fsm.displayStateMachine();  /**it shows like a linked list impl of a graph*/
 
  
